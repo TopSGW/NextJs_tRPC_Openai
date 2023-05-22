@@ -334,6 +334,3 @@ _Still using tRPC v9? See our [`.interop()`](examples/with-interop) example._
 
 Distributed under the MIT License. See LICENSE for more information.
 
-## Contact
-
-James Berry - Follow me on Twitter [@jlalmes](https://twitter.com/jlalmes) 💚
